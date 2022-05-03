@@ -30,7 +30,7 @@ def fprint(string):
 
 confirm = "nope"
 
-while confirm != "yes":                             #solve math problems
+while confirm != "yes":
     clear()
     print("Welcome to Myles' Mad Libs text game.")
     print("Unless prompted otherwise, please answer in singular quantities (e.g. 'carrot' not 'carrots'")
