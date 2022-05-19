@@ -116,6 +116,8 @@ while confirm != "yes":
         time.sleep(2)
         fprint("And you join in by saying your trademark catchphrase, '" + exclamation + "!'")
         time.sleep(2)
+        
+        fprint("Thank you for playing my game! I hope you enjoyed it.")
 
 
 
